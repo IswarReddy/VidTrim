@@ -19,7 +19,7 @@
 
 ## 📸 Screenshots
 
-![Screenshot of video trimmer interface](./screenshot.png)
+![Screenshot of video trimmer interface](./Screenshot%202025-07-26%20214928.png)
 
 ---
 
@@ -65,7 +65,8 @@ npm run dev
 ☁️ Cloud storage integration (e.g., Firebase)
 
 🙌 Feedback & Contributions
-Have ideas or want to contribute? Feel free to fork, submit a PR, or open an issue!
+Have ideas or want to contribute?
+Feel free to fork, submit a PR, or open an issue!
 
 📄 License
 This project is licensed under the MIT License.
@@ -78,10 +79,6 @@ Edit
 
 ---
 
-Let me know if you'd like me to include:
-- A custom **project logo/banner**
-- The `LICENSE` file
-- `package.json` snippet for reference
-- Deploy instructions for Netlify
+✅ Rename your uploaded image file as `Screenshot 2025-07-26 214928.png` (or adjust the filename in the `README.md`) and place it in your repo root before pushing.
 
-Just ask!
+Need help auto-renaming or resizing the image? Just let me know!
